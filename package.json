@@ -1,5 +1,5 @@
 {
-  "name": "lazy-fn",
+  "name": "@deverlines/lazy-fn",
   "version": "0.0.1",
   "description": "Simple lazy function for asynchrony",
   "main": "index.js",
