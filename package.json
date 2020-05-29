@@ -1,0 +1,16 @@
+{
+  "name": "lazy-fn",
+  "version": "0.0.1",
+  "description": "Simple lazy function for asynchrony",
+  "main": "index.js",
+  "author": "deverlines",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deverlines/lazy-fn.git"
+  },
+  "homepage": "https://github.com/deverlines/lazy-fn#readme",
+  "keywords": [
+    "asynchrony"
+  ]
+}
